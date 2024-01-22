@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T19:42:02.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5l0umuEjZiZhKR30i6MX" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T19:45:00.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z4U9TZz_RaZ7XLyZ2xDL" version="22.1.21" type="github">
   <diagram name="Page-1" id="jksl4sAYlVyCWbfnub4E">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,13 @@
         <mxCell id="tt5u95wZxFVfkm65_rnc-23" value="Remove non-microbe species (need to classify these somehow)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-26" value="How does sample diversity change with time?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tt5u95wZxFVfkm65_rnc-26" target="tt5u95wZxFVfkm65_rnc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tt5u95wZxFVfkm65_rnc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tt5u95wZxFVfkm65_rnc-26" target="tt5u95wZxFVfkm65_rnc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tt5u95wZxFVfkm65_rnc-26" value="How do samples change with time?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
@@ -66,6 +72,12 @@
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-28" value="Clean Up Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tt5u95wZxFVfkm65_rnc-30" value="Number of Species" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tt5u95wZxFVfkm65_rnc-31" value="Which species are present at different time points?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
