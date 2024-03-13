@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T07:38:58.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JO_qUkZcol8IoAeapemI" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T06:26:23.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="A9HmPTS48NjgXvxWtfeQ" version="23.1.5" type="github">
   <diagram name="Page-1" id="jksl4sAYlVyCWbfnub4E">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#808080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tt5u95wZxFVfkm65_rnc-1" value="Genetic Data from Multiple Samples at Different Times" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-1" value="Genetic Data from Multiple Samples at Different Times" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-3" value="Assign Time&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-3" value="Assign Time&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-4" target="tt5u95wZxFVfkm65_rnc-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-4" value="Assign Sample ID" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-4" value="Assign Sample ID" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-6" edge="1" target="tt5u95wZxFVfkm65_rnc-4">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-6" target="tt5u95wZxFVfkm65_rnc-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="160" as="targetPoint" />
             <Array as="points">
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-6" value="ID&#39;s for Each Sample at Each Time" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-6" value="ID&#39;s for Each Sample at Each Time" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="480" y="40" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-1" edge="1">
@@ -39,22 +39,22 @@
         <mxCell id="tt5u95wZxFVfkm65_rnc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-11" target="tt5u95wZxFVfkm65_rnc-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BkyDHgLyDMeWJT4fenyF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tt5u95wZxFVfkm65_rnc-11" target="tt5u95wZxFVfkm65_rnc-23">
+        <mxCell id="BkyDHgLyDMeWJT4fenyF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-11" target="tt5u95wZxFVfkm65_rnc-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-11" value="Confirm Species" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-11" value="Confirm Species" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-12" target="tt5u95wZxFVfkm65_rnc-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-12" value="Combined Data" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-12" value="Combined Data&lt;br&gt;(Phyloseq Object!)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-21" value="Remove Host Species (Lynx)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-21" value="Remove Host Species (Lynx)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-23" value="Remove non-microbe species (need to classify these somehow)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-23" value="Remove non-microbe species (need to classify these somehow)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="520" y="450" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-26" target="tt5u95wZxFVfkm65_rnc-30" edge="1">
@@ -63,34 +63,34 @@
         <mxCell id="tt5u95wZxFVfkm65_rnc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-26" target="tt5u95wZxFVfkm65_rnc-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-26" value="How do samples change with time?" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-26" value="How do samples change with time?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="360" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tt5u95wZxFVfkm65_rnc-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="50" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-28" value="Clean Up Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-28" value="Clean Up Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BkyDHgLyDMeWJT4fenyF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tt5u95wZxFVfkm65_rnc-30" target="BkyDHgLyDMeWJT4fenyF-6">
+        <mxCell id="BkyDHgLyDMeWJT4fenyF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-30" target="BkyDHgLyDMeWJT4fenyF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-30" value="Number of Species" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-30" value="Number of Species" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="260" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BkyDHgLyDMeWJT4fenyF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tt5u95wZxFVfkm65_rnc-31" target="BkyDHgLyDMeWJT4fenyF-6">
+        <mxCell id="BkyDHgLyDMeWJT4fenyF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tt5u95wZxFVfkm65_rnc-31" target="BkyDHgLyDMeWJT4fenyF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt5u95wZxFVfkm65_rnc-31" value="Which species are present at different time points?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tt5u95wZxFVfkm65_rnc-31" value="Which species are present at different time points?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="460" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BkyDHgLyDMeWJT4fenyF-2" value="Trim and filter sequences" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="BkyDHgLyDMeWJT4fenyF-2" value="Trim and filter sequences" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BkyDHgLyDMeWJT4fenyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.842;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BkyDHgLyDMeWJT4fenyF-2" target="tt5u95wZxFVfkm65_rnc-3">
+        <mxCell id="BkyDHgLyDMeWJT4fenyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.842;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BkyDHgLyDMeWJT4fenyF-2" target="tt5u95wZxFVfkm65_rnc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BkyDHgLyDMeWJT4fenyF-6" value="How long does species composition reflect actual gut microbiome?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BkyDHgLyDMeWJT4fenyF-6" value="How long does species composition reflect actual gut microbiome?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="840" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
